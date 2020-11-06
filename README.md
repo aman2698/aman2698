@@ -29,35 +29,28 @@ learning **NodeJs Redux React** - 👯 I’m looking to collaborate on **Ebonz**
 🤝 I’m looking for help with [Vfast](http://vfast.co.in/) - 👨‍💻 Projects Link
 (https://aman2698.github.io/codeburnerzProject.github.io/ || https://afternoon-gorge-82612.herokuapp.com)
 - 💬 Ask me about **JavaScript Html Css** - 📫 How to reach me
-**amans7990@gmail.com** - 📄 Resume at
-[https://drive.google.com/file/d/1_memzKrhgi5LDA4GzvokdaoBgXxhdij-/view?usp=sharing](https://drive.google.com/file/d/1_memzKrhgi5LDA4GzvokdaoBgXxhdij-/view?usp=sharing)
+**sikarwaraman26@gmail.com** - 📄 Resume at
+[https://drive.google.com/file/d/1fSO141C-sfrLmw8FZUeXNHxyTNhEyzmo/view](https://drive.google.com/file/d/1fSO141C-sfrLmw8FZUeXNHxyTNhEyzmo/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/amansharma01" target="blank"
+  <a href="https://linkedin.com/in/aman-sikarwar-b49439191" target="blank"
     ><img
       align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
-      alt="amansharma01"
+      alt="amanSikarwar"
       height="30"
       width="40"
   /></a>
-  <a href="https://fb.com/aman1001" target="blank"
+  <a href="https://m.facebook.com/aman.shikarwar?ref=bookmarks" target="blank"
     ><img
       align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg"
-      alt="aman1001"
+      alt="amanSikarwar"
       height="30"
       width="40"
   /></a>
-  <a href="https://dribbble.com/aman7990" target="blank"
-    ><img
-      align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg"
-      alt="aman7990"
-      height="30"
-      width="40"
-  /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -254,15 +247,15 @@ learning **NodeJs Redux React** - 👯 I’m looking to collaborate on **Ebonz**
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=amansharma4&show_icons=true&locale=en&layout=compact"
-    alt="amansharma4"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=aman2698&show_icons=true&locale=en&layout=compact"
+    alt="aman2698"
   />
 </p>
 
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=amansharma4&show_icons=true&locale=en"
-    alt="amansharma4"
+    src="https://github-readme-stats.vercel.app/api?username=aman2698&show_icons=true&locale=en"
+    alt="aman2698"
   />
 </p>
