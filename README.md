@@ -27,7 +27,7 @@
 - 🔭 I’m currently working on [Vfast](http://vfast.co.in/) - 🌱 I’m currently
 learning **NodeJs Redux React** - 👯 I’m looking to collaborate on **Ebonz** -
 🤝 I’m looking for help with [Vfast](http://vfast.co.in/) - 👨‍💻 Projects Link
-[https://aman2698.github.io/codeburnerzProject.github.io/](https://aman2698.github.io/codeburnerzProject.github.io/ || https://afternoon-gorge-82612.herokuapp.com)
+(https://aman2698.github.io/codeburnerzProject.github.io/ || https://afternoon-gorge-82612.herokuapp.com)
 - 💬 Ask me about **JavaScript Html Css** - 📫 How to reach me
 **amans7990@gmail.com** - 📄 Resume at
 [https://drive.google.com/file/d/1_memzKrhgi5LDA4GzvokdaoBgXxhdij-/view?usp=sharing](https://drive.google.com/file/d/1_memzKrhgi5LDA4GzvokdaoBgXxhdij-/view?usp=sharing)
